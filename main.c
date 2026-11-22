@@ -9,5 +9,6 @@ double c = sqrt(a * a + b * b);
 double P = a + b + c;
 
 printf("Perimeter = %.2f\n", P);
+printf("Hypotenuse = %.2f\n", c);
 return 0;
 }
